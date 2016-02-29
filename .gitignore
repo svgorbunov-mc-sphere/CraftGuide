@@ -1,6 +1,7 @@
 # ForgeGradle
 /.gradle
 /build
+/run
 
 # Eclipse
 /.externalToolBuilders
